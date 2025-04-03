@@ -1,2 +1,3 @@
 # ft_printf
-Printf recreado en base al original con ciertas limitaciones
+printf recreado en base al original con ciertas limitaciones
+con la virtud de que no utiliza alojamiento dinamico de memoria (malloc)
